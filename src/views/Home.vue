@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import DataList from "@/components/DataList";
+import DataList from "@/views/ListData/DataList";
 export default {
   name: 'Home',
   components: {

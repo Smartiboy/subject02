@@ -30,7 +30,7 @@
   </div>
 </template>
 <script>
-import EditModal from "@/components/EditModal";
+import EditModal from "@/views/ListData/EditModal";
 
 export default {
   name: 'DataList',
